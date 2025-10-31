@@ -26,10 +26,10 @@ body {
 }
 
 .navbar h1 {
-    font-family: "Garamond", Garamond, serif;
+    font-family: "Times New Roman", Georgia, serif;
     color: #000000;
-    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.975);
-    font-size: 2.8rem;
+    text-shadow: 2px 2px 2px rgba(179, 179, 179, 0.975);
+    font-size: 2.0rem;
     font-style: italic;
 }
 
@@ -190,4 +190,5 @@ footer {
         font-size: 2rem;
     }
 }
+
 
